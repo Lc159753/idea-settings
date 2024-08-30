@@ -1,0 +1,223 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="RunTab.TopToolbar.More" is_group="true" forse_popup="false" action_type="-1" position="22">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunTab.TopToolbar" is_group="true" forse_popup="false" action_type="-1" position="21">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="20">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.ToolWindow.TopToolbar3.Extra" is_group="true" forse_popup="false" action_type="-1" position="19">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Floating.CodeToolbar" is_group="true" forse_popup="false" action_type="-1" position="17">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.FileHistory.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="16">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesViewToolbar" is_group="true" forse_popup="false" action_type="-1" position="15">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Log.ChangesBrowser.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="14">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Log.Toolbar.RightCorner" is_group="true" forse_popup="false" action_type="-1" position="13">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Operations.Popup" is_group="true" forse_popup="false" action_type="-1" position="12">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Markdown.Toolbar.Floating" is_group="true" forse_popup="false" action_type="-1" position="11">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="J2EEViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="10">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TranslationNavBarToolBar" is_group="true" forse_popup="false" action_type="-1" position="10">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StreamingToolbarVirtualDevice" is_group="true" forse_popup="false" action_type="-1" position="9">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarToolBar" is_group="true" forse_popup="false" action_type="-1" position="8">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AtomFileIcons.Actions" is_group="true" forse_popup="false" action_type="-1" position="8">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="右侧" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android Profiler Group" is_group="true" forse_popup="false" action_type="-1" position="8">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="工具栏运行操作" />
+      <path value="运行/调试" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavbarPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="7">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AtomFileIcons.OldToolbar" is_group="true" forse_popup="false" action_type="-1" position="7">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="右侧" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android Profiler" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="工具栏运行操作" />
+      <path value="运行/调试" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesView.Revert" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToolbarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScopeViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="6">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GrepConsoleTail" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="工具栏运行操作" />
+      <path value="运行/调试" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToolbarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="5">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="右侧" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Profiler" is_group="true" forse_popup="false" action_type="-1" position="5">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="工具栏运行操作" />
+      <path value="运行/调试" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorTabPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="4">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidConnectDebuggerAction" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MyBatis Log Plugin Free" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="工具栏运行操作" />
+      <path value="运行/调试" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorGutterPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="3">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Coverage" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="工具栏运行操作" />
+      <path value="运行/调试" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="2">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CheckinProject" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="VCS 本地更改工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainToolbarNewUI" is_group="true" forse_popup="false" action_type="-1" position="1">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="com.intellij.space.vcs.actions.SpaceMainToolBarAction" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="导航栏工具栏" />
+      <path value="space.actions.MainToolbarActionGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TopStripeActionGroup" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="中心" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CheckinProject" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="右侧" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Push" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="右侧" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="右侧" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CheckinProject" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="VCS 本地更改工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="VcsGroups" icon="jar:file:/Users/liuchuan/Library/Application%20Support/JetBrains/IntelliJIdea2023.2/plugins/Atom%20Material%20Icons/lib/common.jar!/icons/expui/toolbar/unknown.svg" />
+  </component>
+</application>

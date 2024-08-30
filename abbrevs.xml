@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="xr.context.awareness">
+        <abbreviation name="x" />
+      </action>
+      <action id="xr.disposable">
+        <abbreviation name="x" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
